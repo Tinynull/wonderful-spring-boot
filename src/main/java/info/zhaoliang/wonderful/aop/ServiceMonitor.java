@@ -43,7 +43,7 @@ public class ServiceMonitor {
     }
 
     /**
-     * 切点之后要做的事.
+     * 切点之后要做的事情.
      * 
      * @param joinPoint JoinPoint
      */
